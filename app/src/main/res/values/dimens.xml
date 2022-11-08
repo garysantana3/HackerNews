@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_margin_nano">4dp</dimen>
+    <dimen name="dimen_margin_small">8dp</dimen>
+    <dimen name="dimen_margin_medium">12dp</dimen>
+
+    <dimen name="smallTextSize">12dp</dimen>
+    <dimen name="mediumTextSize">20dp</dimen>
+</resources>
